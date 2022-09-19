@@ -31,8 +31,10 @@
 ## CONTACT PAGE
 
  ![CCCC](https://user-images.githubusercontent.com/110899071/190994277-1bbd268d-ba5e-4de8-8de1-c6449c3981bb.PNG)
+ 
+  ![CANTACT 2](https://user-images.githubusercontent.com/110899071/190993779-f16a8bd3-c3c5-4dde-91ee-6275e1038f5b.PNG)
                              
  ![cantact 1](https://user-images.githubusercontent.com/110899071/190990114-0d9117b3-949c-4d07-afd8-3aec4ec69d14.PNG)
  
- ![CANTACT 2](https://user-images.githubusercontent.com/110899071/190993779-f16a8bd3-c3c5-4dde-91ee-6275e1038f5b.PNG)
+
 
