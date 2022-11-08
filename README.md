@@ -1,8 +1,7 @@
 ## Foodie-Lovers by chandra sekhar.
 
 
-## WEB SITE LINK:  C:/Users/user/Downloads/ezyzip/microsoft%20project/index.html
-
+## WEB SITE LINK:  github.com/Reddi-chandra/Foodie-Lovers
 ## HOME PAGE
            
   ![ms pics](https://user-images.githubusercontent.com/110899071/190989547-74c7c9ae-c168-4586-ab64-0208153b52ae.PNG)
